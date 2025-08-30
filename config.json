@@ -1,0 +1,5 @@
+{
+    "targets": ["https://example.com", "https://another.com"],
+    "scan_schedule": 86400,
+    "report_path": "reports/"
+}
