@@ -2,6 +2,7 @@
 Python module to scan websites for trackers, analytics, and third-party scripts for enhanced privacy.
 # Ultra Privacy Shield
 
+
 Ultra Privacy Shield is a Python-powered tool that scans websites for trackers, flags unsafe domains, clears browser caches and temp files, and generates detailed PDF reports. Automate daily privacy audits, optimize system performance, and maintain control over your digital footprint all without relying on JavaScript.
 
 ## Features
